@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [markazeahan](https://www.markazeahan.com/)
 
-- 🌱 I’m currently learning **PWA,TypeScript**
+- 🌱 I’m currently learning **Nest**
 
 - 💬 Ask me about **tech,music**
 
